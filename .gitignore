@@ -1,6 +1,3 @@
-#Project
-/tmp/
-
 #linux specific
 .fuse_hidden*
 .directory
@@ -49,3 +46,7 @@ Session.vim
 .netrwhist
 *~
 tags
+/cmake-build-debug/
+/build/bin
+/tmp/
+/.idea/
