@@ -103,7 +103,7 @@ add_executable(
         )
 target_link_libraries(tungusska ${ALL_LIBS})
 
-file(MAKE_DIRECTORY "cmake-build-debug")
+# file(MAKE_DIRECTORY "cmake-build-debug")
 
 add_custom_command(
         TARGET tungusska POST_BUILD
