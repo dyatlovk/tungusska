@@ -4,9 +4,9 @@ OpenGL render. Tested on Debian 9.
 SDL2, AssimpLoader, lua5.1, cmake, GLEW, Boost
 
 ### Build:
-copy game data https://github.com/dyatlovk/TGameData to /build
+`mkdir cmake-build & mkdir build`
 
-`mkdir cmake-build`
+copy game data https://github.com/dyatlovk/TGameData to /build
 
 `cd cmake-build`
 
