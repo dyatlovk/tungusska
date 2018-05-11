@@ -47,6 +47,7 @@ Session.vim
 *~
 tags
 /cmake-build-debug/
-/build/bin
+/cmake-build/
+/build/*
 /tmp/
 /.idea/
